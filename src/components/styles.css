@@ -1,0 +1,23 @@
+.ui.segment:first-child {
+	margin-top: 2rem;
+	border: none;
+	box-shadow: none;
+	background-color: transparent;
+}
+
+.ui.header {
+	color: #2c3bae;
+	margin-bottom: 0.75rem;
+}
+
+h4 {
+	margin-top: 0;
+	color: #5662be;
+}
+
+.ui.form .field .ui.input input {
+	border-radius: 500rem;
+	border-color: #2c3bae;
+	color: #2c3bae;
+	background-color: transparent;
+}
