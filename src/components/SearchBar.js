@@ -24,7 +24,6 @@ class SearchBar extends React.Component {
 									onChange={(e) => this.setState({ term: e.target.value })}
 									placeholder="Search"
 								/>
-								<i class="search icon"></i>
 							</div>
 						</div>
 					</div>
